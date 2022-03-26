@@ -6,6 +6,7 @@ import './App.css';
 function App() {
   const placeData = data.map((place) => {
     return <Place 
+            key={place.id}
             place={place}
             />
   })
