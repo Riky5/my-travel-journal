@@ -1,0 +1,17 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  background-color: rgb(245, 90, 90);
+}
+
+.world {
+  height: 2em;
+  align-self: center;
+  margin-right: .5em;
+}
+
+.text {
+  color: rgb(250, 250, 250);
+  font-size: 1.5em;
+  font-family: 'Inter', sans-serif;
+}
