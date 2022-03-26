@@ -22,7 +22,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 ## How my journal looks like
 
-![My Journal]()
+![My Journal](src/images/my-journal.png)
 ### The Figma design from Scrimba
 
 ![Figma Design](src/images/figma-design.png)
