@@ -1,0 +1,12 @@
+.place-container {
+  display: flex;
+  margin-inline: auto;
+  max-width: 48em;
+}
+
+.photo {
+  border-radius: 10px;
+  height: 20em;
+  max-width: 16em;
+  object-fit: fill;
+}
